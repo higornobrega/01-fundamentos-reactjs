@@ -1,1 +1,1 @@
-Modulo 1 capítulo 2 aula 2 (css global)
+Modulo 1 capítulo 2 aula 4 (Componente Sidebar)
