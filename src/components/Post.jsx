@@ -20,11 +20,10 @@ export function Post(){
             <p>Dolor sit amet consectetur adipisicing elit. Suscipit asperiores praesentium cum culpa eveniet totam atque nisi quisquam iste voluptatem voluptas, consequuntur possimus quidem voluptates eligendi amet sapiente exercitationem beatae!</p>
             <p><a href=""> Lorem ipsum dolor sit, amet</a></p>
             <p>
-                <a href=""> Consectetur </a>{' '}
-                <a href="">Adipisicing </a>{' '}
-                <a href=""> elit.</a>{' '}
+                <a href=""> Consectetur</a>{' '}
+                <a href="">Adipisicing</a>{' '}
+                <a href=""> elit.</a>
             </p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis repellendus numquam eius delectus impedit quo amet dolor quia eaque quaerat dignissimos, fuga atque porro ducimus a dolore reprehenderit? Doloribus, commodi?
         </div>
         </article>
     )
